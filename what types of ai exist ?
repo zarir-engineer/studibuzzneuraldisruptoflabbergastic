@@ -1,0 +1,79 @@
+Great question. Here's a simple breakdown of the **types of AI**, from basic to advanced, in both **capability** and **functionality**.
+
+---
+
+## 🧠 By Capability (What AI *can* do)
+
+### 1. **Narrow AI (Weak AI)** ✅ *Exists today*
+
+* Designed for a specific task only
+* Can’t generalize beyond its scope
+* Examples:
+
+  * Siri, Alexa
+  * Google Translate
+  * ChatGPT
+
+> 🔹 It's “smart” in one area, but dumb everywhere else.
+
+---
+
+### 2. **General AI (AGI – Artificial General Intelligence)** 🚧 *Still theoretical*
+
+* Performs any intellectual task a human can do
+* Learns, reasons, adapts across domains
+* Would pass a "real" Turing Test consistently
+
+> 🤖 A true AI “mind” — we’re not there yet.
+
+---
+
+### 3. **Superintelligent AI** 🚫 *Hypothetical/Future*
+
+* Exceeds human intelligence in all respects
+* Could reason, solve problems, and innovate faster than humans
+* Raises major ethical and existential questions
+
+> 🧨 Think: AI gods. Not real (yet), but explored in philosophy and fiction.
+
+---
+
+## ⚙️ By Function (How AI is built or works)
+
+### 1. **Reactive Machines**
+
+* No memory or learning
+* Responds only to current input
+* Example: IBM’s Deep Blue (chess)
+
+### 2. **Limited Memory**
+
+* Can use recent past data
+* Most current ML systems use this
+* Example: ChatGPT, self-driving cars
+
+### 3. **Theory of Mind (future)**
+
+* Would understand emotions, intentions, beliefs
+* Needed for human-like empathy and collaboration
+
+### 4. **Self-Aware AI (very speculative)**
+
+* AI that knows it exists
+* Would have consciousness
+
+---
+
+## 🎨 Bonus: Other Ways to Classify AI
+
+| Category                                 | Examples                            |
+| ---------------------------------------- | ----------------------------------- |
+| 🔍 **Supervised Learning**               | Spam detection, image labeling      |
+| 🧩 **Unsupervised Learning**             | Market segmentation, topic modeling |
+| 🎰 **Reinforcement Learning**            | Robotics, game AI (AlphaGo)         |
+| 💬 **Natural Language Processing (NLP)** | Chatbots, translators               |
+| 🖼️ **Computer Vision**                  | Face recognition, object detection  |
+
+---
+
+Would you like this saved as a Markdown card in your learning map?
